@@ -1,6 +1,6 @@
 <!-- SimpleB -->
 <a href="#" target="_blank">
-  <img src="svg/simpeb.svg" width="1200" alt="ndb-official" />
+  <img src="svg/simpleb.svg" width="1200" alt="ndb-official" />
 </a>
 
 <h2 align="center">🛠 Language and Framework 🛠</h2>
